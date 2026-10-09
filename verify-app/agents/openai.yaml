@@ -1,0 +1,3 @@
+interface:
+  display_name: "Verify App"
+  short_description: "Run the app and prove a backend or UI change works with evidence"
