@@ -1,0 +1,5 @@
+interface:
+  display_name: "Update Agents MD"
+  short_description: "Save session learnings into AGENTS.md / CLAUDE.md"
+policy:
+  allow_implicit_invocation: false

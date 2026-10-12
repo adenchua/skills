@@ -1,0 +1,3 @@
+interface:
+  display_name: "Agents MD Improver"
+  short_description: "Audit and improve AGENTS.md / CLAUDE.md with a scored report"
